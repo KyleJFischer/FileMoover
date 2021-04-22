@@ -1,0 +1,4 @@
+foldersToWatch:
+  - testFolder
+  - anotherTestFolder
+Output: output
