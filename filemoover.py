@@ -16,6 +16,8 @@ def moveFile(folder, file):
     outputFolder = join(settings["Output"], file)
     rename(inputFolder, outputFolder)
 
+
+
 while (True):
     loadYaml()
     foldersToWatch = settings["foldersToWatch"]

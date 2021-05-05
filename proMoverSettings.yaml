@@ -1,0 +1,6 @@
+InputLocation: testFolder
+OutputBasePath: output
+OutputEndPath: output
+OutputLocations:
+  Test: TestFolder
+  USFIN: USFIN
